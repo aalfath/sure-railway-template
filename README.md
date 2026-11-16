@@ -1,3 +1,5 @@
+[![Deploy on Railway](https://railway.com/button.svg)](https://railway.com/new/template/sure-1?utm_medium=integration&utm_source=button&utm_campaign=sure)
+
 # Sure on Railway
 
 A Railway template for [Sure](https://github.com/we-promise/sure), the open-source personal finance app (community successor of Maybe Finance): net worth, accounts, transactions, budgets, investments and reports.
